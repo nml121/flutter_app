@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# flutter_app
-=======
 # flutter_app
 
 A new Flutter project.
